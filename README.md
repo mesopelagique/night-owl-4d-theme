@@ -4,13 +4,15 @@ Based entirely on Sarah Drasner's [Night Owl VSCode Theme](https://github.com/1b
 
 ![Sample](sample.png)
 
-This project contains also not italic version, and ligth versions.
+This project contains also not italic version, and ligth versions too.
 
 ## To install
 
-Take JSON files and put them into 4D editor themes folder. (on macOS `$HOME/Library/Application Support/4D/4D Editor Themes`)
+Take JSON files and put them into 4D editor themes folder.
+- on macOS `$HOME/Library/Application Support/4D/4D Editor Themes`
+- on Window `<diskName>:\Users\userName>\AppData\Roaming\4D\4D Editor Themes`
 
-Then select it in 4D v19+ preferences.
+Then select it in 4D v19+ [preferences](https://developer.4d.com/docs/en/Preferences/methods.html#themes).
 
 ### On macOS
 
