@@ -1,6 +1,6 @@
 # Night Owl 4D Theme
 
-Based entirely on Sarah Drasner's [Night Owl VSCode Theme](https://github.com/1bharat/night-owl-alfred-theme).
+Based entirely on Sarah Drasner's [Night Owl VSCode Theme](https://github.com/sdras/night-owl-vscode-theme).
 
 ![Sample](sample.png)
 
